@@ -18,8 +18,8 @@ Don't forget to `put star ★` and follow me on GitHub if you like it:
 - Version:- 1.0.0 (1)
 
 
-## Example
-![ezgif com-resize](https://github.com/luckyhexalitics/TimerApp/assets/101097766/181a6b59-f25f-4e94-a54b-0ec49f4b7491)
+## Preview
+![ezgif com-resize](https://github.com/sadanand-lowanshi/SwiftUI-TimerApp/blob/main/Assets/demo.gif)
 
 
 ### Authors
