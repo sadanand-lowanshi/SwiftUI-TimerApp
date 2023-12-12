@@ -22,7 +22,7 @@ Don't forget to `put star ★` and follow me on GitHub if you like it:
 ![ezgif com-resize](https://github.com/sadanand-lowanshi/SwiftUI-TimerApp/blob/main/Assets/demo.gif)
 
 
-### Authors
+### 👨🏻‍💻 Authors
 [Sadanand Lowanshi](https://github.com/sadanand-lowanshi)
 
 ## Other Projects
