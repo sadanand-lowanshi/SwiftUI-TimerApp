@@ -5,7 +5,7 @@
 
 ## 📎 About
 
-A simple timer app made in swiftUI `SwiftUI`. Include Layout, UI and Animations.
+A simple timer app made in `SwiftUI`. Include Layout, UI and Animations.
 See projects files in `TimerApp` folders. Open an issue, if you need any improvements or face any issues.
 Don't forget to `put star ★` and follow me on GitHub if you like it:
 
