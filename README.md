@@ -1,17 +1,13 @@
-## `SwiftUI` Examples
+## Timer SwiftUI Example
 [![Timer](https://img.shields.io/badge/Timer-4BC51D.svg?style=flat)](https://github.com/luckyhexalitics/TimerApp)
 [![Swift](https://img.shields.io/badge/SwiftUI-4_5-orange?style=flat-square)](https://img.shields.io/badge/SwiftUI-4_5-Orange?style=flat-square)
 [![Platforms](https://img.shields.io/badge/Platforms-macOS_iOS_tvOS_iPad_visionOS-yellowgreen?style=flat-square)](https://img.shields.io/badge/Platforms-macOS_iOS_tvOS_iPad_visionOS-yellowgreen?style=flat-square)
 
 ## About
 
-Examples projects using `SwiftUI`.  
-Include Layout, UI, Animations.
-
-See projects files in `TimerApp` folders. If you have project, make a pull request or create issue with link to repo.
-
-If you like the project, don't forget to `put star ★` and follow me on GitHub:
-
+A simple timer app made in swiftUI `SwiftUI`. Include Layout, UI and Animations.
+See projects files in `TimerApp` folders. Open an issue, if you need any improvements or if you face any issues.
+Don't forget to `put star ★` and follow me on GitHub if you like it:
 
 ## Requirements
 - iOS 15.0+
@@ -19,7 +15,7 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 - SwiftUI 4+
 
 ## App Version
-- Version:- 1.0.0
+- Version:- 1.0.0 (1)
 
 
 ## Example
@@ -27,22 +23,16 @@ If you like the project, don't forget to `put star ★` and follow me on GitHub:
 
 
 ### Authors
-
-Thanks [Sadanand Lowanshi](https://github.com/sadanandhexalitcs), [Lucky Verma](https://github.com/luckyhexalitics) for examples project.
+[Sadanand Lowanshi](https://github.com/sadanand-lowanshi)
 
 ## Other Projects
 
-I love being helpful. Here I have provided a Repositorie that I keep up to date.[ Apple Map Sample](https://github.com/hexalitics/AppleMapsSample) [Doorways](https://github.com/luckyhexalitics/Doorways).
+I love being helpful, here I have provided a repositorie that I keep up to date [ Apple Map Sample](https://github.com/hexalitics/AppleMapsSample)
 
-
-## Indian Community
-[Hexalitics Technology](https://www.hexalitics.com)
 
 ## Help
 As always, if you have any questions about Timer App, we are available 24/7 to help.
 
 | | Reach us at | |
 --- |:---:|:---:
-📞 | +91 930 177 3132 | **Call**
-📧 | info@hexalitics.com | **Email**
-📲 | +91 930 177 3132 | **Text**
+📧 | sadanandlowanshi@gmail.com | **Email**
